@@ -6,5 +6,4 @@ Future study can be conducted on non-linear modelling such as logarithmic, polyn
 
 # References
 Source for AMD data: https://au.finance.yahoo.com/quote/AMD/history?p=AMD
-
 Source for S&P500 data: https://au.finance.yahoo.com/quote/%5EGSPC/history?p=^GSPC&.tsrc=fin-srch
