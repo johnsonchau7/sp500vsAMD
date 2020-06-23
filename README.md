@@ -4,5 +4,6 @@ This project aims to explain the relationship between S&P500 index and AMD betwe
 
 Future study can be conducted on non-linear modelling such as logarithmic, polynomial and regression spline. Hypothesis testing can also be conducted on slopes to see whether it is statistically significant. Analysis on residuals can also be implemented to test for high leverage points, outliers or influential points. The scope of data can be further expanded by including a larger timeframe (10 year period) and other economic factors such as revenue of AMD, market share in semiconductor industry and current economic growth.
 
+# References
 Source for AMD data: https://au.finance.yahoo.com/quote/AMD/history?p=AMD
 Source for S&P500 data: https://au.finance.yahoo.com/quote/%5EGSPC/history?p=^GSPC&.tsrc=fin-srch
